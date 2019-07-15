@@ -1972,7 +1972,7 @@ msgstr ""
 
 #, javascript-format
 msgid "Links with protocol \"%s\" are not supported"
-msgstr ""
+msgstr "Łącza z protokołem \"%s\" nie są obsługiwane"
 
 #, javascript-format
 msgid "Unsupported image type: %s"
